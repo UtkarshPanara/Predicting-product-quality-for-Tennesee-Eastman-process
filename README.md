@@ -14,4 +14,4 @@ In the dataset there are 44 files. The files with name "*_te" are for testing. F
 The dataset can be download from https://ieee-dataport.org/documents/tennessee-eastman-simulation-dataset#files
 
 ## Algorithm 
-Support Vector Regression (TE_SVR.ipynb) and Neural Networks (TE_NN.ipynb) is used to estimate the quality of products G and H.
+Support Vector Regression (TE_SVR.ipynb) and Artificial Neural Networks (TE_ANN.ipynb) is used to estimate the quality of products G and H.
